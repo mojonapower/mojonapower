@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./img/bannermaca.png" alt="drawing" width="800" />
+<img src="./img/bannermaca.png"/>
 <img src="./img/imggoogle.PNG" alt="drawing" width="200" style="float:right"/>
 ##### Mi nombre es Macarena Rebolledo, burdamente conocida como Mojona(power) pero piénselo, ¿Quién en su sano juicio se llamaría así en internet? Soy resultado único en google 😎 
 
