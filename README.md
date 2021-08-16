@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <img src="./img/Diseño sin título (2).png"  width="800" />
 <img src="./img/imggoogle.PNG" alt="drawing" width="200" style="float:right"/>
-##### Mi nombre es Macarena Rebolledo, burdamente conocida como Mojona(power) pero piénselo, ¿Quién en su sano juicio se llamaría así en internet? Soy resultado único en google 😎 
+</div>
 
-- 🔭 I’m currently working on ..
+- Mi nombre es Macarena Rebolledo, burdamente conocida como Mojona(power) pero piénselo, ¿Quién en su sano juicio se llamaría así en internet? Soy resultado único en google 😎 
+- 🔭 Actualmente me encuentro trabajando como profesora y como Desarrolladora de Software.
+- 🤔 PERO aún soy estudiante de Ing en Informatica, aún no me titulo
+- 🤔 PEEERO tengo un diplomado e Innovación y Emprendimiento sin tener ningpun título 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
