@@ -20,13 +20,5 @@ Here are some ideas to get you started:
 #### Mi nombre es Macarena Rebolledo, burdamente conocida como Mojona(power) 
 pero piénselo, ¿Quién en su sano juicio se llamaría así en internet? Soy resultado único en google 😎 
 - 🔭 Actualmente me encuentro trabajando como profesora y como Desarrolladora de Software.
-- 🤔 PERO aún soy estudiante de Ing en Informatica, aún no me titulo
-- 🤔 PEEERO tengo un diplomado e Innovación y Emprendimiento sin tener ningpun título 
-- 🌱 Actualmente me encuentro Realizando mi tesis orientada a tecnología y educación
-- 👯 Tengo variados proyectos personales:
-
-    - 🤔 Tengo mi propia plataforma llamada Cuandoquiera.cl que ayuda a mis estudiantes a encontrar información "Cuando quiera(n) un componente modal en React"
-    - 💬 Enchileno.cl es una plataforma que busca que cualquier profesor de cualquier área del conocimiento enseñe el concepto que ellos quieran al más puro chileno, todo está permitido. Enseñanza con memes, chilenismos, garabatos pero SIEMPRE con la motivación de educar. NO SOMOS FUENTE CONFIABLE PARA CITAR
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Ella/She/Her
+- 🥑 I'm Vegan  
