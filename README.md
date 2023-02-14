@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 pero piénselo, ¿Quién en su sano juicio se llamaría así en internet? Soy resultado único en google 😎 
 - 🔭 Actualmente me encuentro trabajando como profesora y como Desarrolladora de Software.
 - 😄 Pronouns: Ella/She/Her
-- 🥑 I'm Vegan  
+- 🥑 I'm Vegan  🥑
